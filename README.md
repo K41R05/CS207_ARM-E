@@ -1,4 +1,4 @@
-# CS207_ARM-E
+# CS207_NEO-ARM (originally named ARM-E)
 
 This project was made for CS207 and has been an interest of mine for a long time.
 
