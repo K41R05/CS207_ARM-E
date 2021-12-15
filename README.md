@@ -8,4 +8,4 @@ Link: https://mdesigns.space/3d-printing-cad-files/p/prosthetic-arm-files
 At present moment this project is simplified to the prosthetic hand responding to a reading from the Myoware Muscle sensors.
 
 Future endevaours I want to explore:
-- looking into better supplier for Servo Motors (some of my sensors only moved 180 degrees, and other sensors would rotate 360 degrees)
+- looking into better supplier for Servo Motors and Myoware Sensor or other Muscle sensors (some of my servos only moved 180 degrees, and other servos would rotate 360 degrees, and the muscle sensor had an inconsistent readings)
